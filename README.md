@@ -1,1 +1,1 @@
-1[photo](pictures/tombala.png)
+![photo](pictures/tombala.png)
